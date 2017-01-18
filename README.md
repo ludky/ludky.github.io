@@ -1,1 +1,1 @@
-# ludky.github.io
+# home.ludky.com
