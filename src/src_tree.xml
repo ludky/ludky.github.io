@@ -1,0 +1,38 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<url>
+
+  <base category="url">
+    <endpoint lang="en">root</endpoint>
+    <value>ludky.com</value>
+  </base>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">homepage</endpoint>
+    <value>homepage</value>
+  </subdomain>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">blog</endpoint>
+    <value>blog</value>
+  </subdomain>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">dev</endpoint>
+    <value>dev</value>
+  </subdomain>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">test</endpoint>
+    <value>test</value>
+  </subdomain>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">projects</endpoint>
+    <value>projects</value>
+  </subdomain>
+
+  <subdomain category="subdomain">
+    <endpoint lang="en">*</endpoint>
+    <value>unauthorized</value>
+  </subdomain>
+</url>
