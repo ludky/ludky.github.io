@@ -12,13 +12,8 @@
   </subdomain>
 
   <subdomain category="subdomain">
-    <endpoint lang="en">blog</endpoint>
-    <value>blog</value>
-  </subdomain>
-
-  <subdomain category="subdomain">
-    <endpoint lang="en">dev</endpoint>
-    <value>dev</value>
+    <endpoint lang="en">resume</endpoint>
+    <value>resume</value>
   </subdomain>
 
   <subdomain category="subdomain">
