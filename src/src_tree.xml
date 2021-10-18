@@ -30,6 +30,11 @@
     <endpoint lang="en">projects</endpoint>
     <value>projects</value>
   </subdomain>
+ 
+ <subdomain category="subdomain">
+    <endpoint lang="en">loves</endpoint>
+    <value>loves</value>
+  </subdomain>
 
   <subdomain category="subdomain">
     <endpoint lang="en">*</endpoint>
