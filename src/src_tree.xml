@@ -3,7 +3,7 @@
 
   <base category="url">
     <endpoint lang="en">root</endpoint>
-    <value>ludky.com</value>
+    <value>ludky.github.io</value>
   </base>
 
   <subdomain category="subdomain">
